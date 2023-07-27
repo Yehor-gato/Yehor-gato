@@ -2,10 +2,6 @@
 
 🚀 I'm a professional software developer who has successfully contributed to various projects across multiple domains. I've got a knack for problem-solving, and I'm passionate about learning new technologies and frameworks.
 
-🤔 Always looking for complex problems to solve and eager to take on the challenging tasks that others shy away from
-
-💼 My strong work ethics, coupled with my enthusiasm for continuous learning, makes me a valuable addition to any team
-
 ✨ If you're looking for someone who can translate your ideas into functional and efficient code, contact me!
 
 
