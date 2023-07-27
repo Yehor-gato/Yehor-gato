@@ -5,7 +5,7 @@
 ✨ If you're looking for someone who can translate your ideas into functional and efficient code, contact me!
 
 
-## My Tech Toolbox 🧰
+## My Tech Toolbox 
 
 ### Back-End
 
@@ -26,12 +26,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/material%20ui-%230081cb.svg?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Infrastructure
