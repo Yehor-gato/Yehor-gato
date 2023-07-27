@@ -59,4 +59,4 @@
 ![Faker.js](https://img.shields.io/badge/Faker.js-92A8D1?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Connect with me 🌐
-- [email](mailto:gatodeldoctor@gmail.com)
+- [gatodeldoctor@gmail.com](mailto:gatodeldoctor@gmail.com)
