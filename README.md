@@ -1,4 +1,4 @@
-![Developer](https://github.com/Yehor-gato/Yehor-gato/assets/140712098/5081d730-73e9-4c1f-9f80-95110a50d09b)
+![Yehor](https://github.com/Yehor-gato/Yehor-gato/assets/140712098/6c7f4147-b789-4e2c-a8ac-e08d9ef3d1cb)
 
 🚀 I'm a professional software developer who has successfully contributed to various projects across multiple domains. I've got a knack for problem-solving, and I'm passionate about learning new technologies and frameworks.
 
@@ -6,13 +6,6 @@
 
 
 ## My Tech Toolbox 
-
-### Back-End
-
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87?style=for-the-badge&logo=apollo-graphql)
 
 
 ### Front-End
@@ -28,25 +21,11 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
 
 ### Testing Software
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Faker.js](https://img.shields.io/badge/Faker.js-92A8D1?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Connect with me 🌐
 - [gatodeldoctor@gmail.com](mailto:gatodeldoctor@gmail.com)
